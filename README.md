@@ -1,4 +1,4 @@
-# CS-465-FinalProject
+# CS-465-Fullstack
 
 For this project, a combination of Express, HTML, JavaScript, and Single-page Application (SPA) were used for the development of a simple web page. Although all these development tools were used 
 to acomplish the same goal, each tool had their specific tasks that separated them for each other. Express was in charge of using the HTML files for the communication between user requests an database.
